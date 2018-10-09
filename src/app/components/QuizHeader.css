@@ -1,0 +1,20 @@
+.quiz-header button{
+    background-color: #fafafa;
+    border: none;
+    cursor: pointer;
+    padding: 30px;
+}
+.quiz-header button:hover{
+    background: #fafafa;
+}
+.quiz-header button:focus{
+    outline: 0px;
+}
+.quiz-header button:after{
+
+}
+.exit {
+    color: #525252;
+    
+    font-size: 2em;
+}
